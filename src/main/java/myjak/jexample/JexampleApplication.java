@@ -11,7 +11,7 @@ public class JexampleApplication {
     }
 
     public int adder(int a, int b){
-        return a*b;
+        return a+b;
     }
 }
 
